@@ -1,6 +1,6 @@
 #pragma once
 
-#include "main.h" // Include any other necessary headers
+#include "main.h"
 
 struct UserData {
     std::string name;

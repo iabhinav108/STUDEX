@@ -16,7 +16,6 @@ struct Student {
     string email;
     string phone;
 };
-
 vector<Student> students;
 unordered_map<string, Student> studentMap;
 
