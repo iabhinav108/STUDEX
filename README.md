@@ -1,7 +1,7 @@
 # STUDEX: The University Address Book
 ---
 
-**STUDEX**: University Address Book application built using C++. This project was developed as part of the academic coursework for the course **CSET:202 Data Structures Using C++** at an educational institution.
+**STUDEX**: University Address Book application built using C++. This project was developed as part of the academic coursework for the course **CSET:202 Data Structures Using C++** at Bennett University.
 
 
 ## Features
