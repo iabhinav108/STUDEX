@@ -20,11 +20,4 @@ git clone: https://github.com/your-username/STUDEX.git
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-000?style=for-the-badge)](https://github.com/your-username/STUDEX)
 ---
 
-| Team Member         |
-|---------------------|
-| Abhinav Srivastava  |
-| V Harshath          |
-| Aadarsh Singh Tomar |
----
-
 > We would like to express our gratitude to our course instructor and the academic institution for providing the opportunity to work on this project as part of our coursework.
